@@ -11,5 +11,7 @@ function App() {
         <button style={{ display : "block", marginBottom: 8}} onClick={() => setPage("diary")}>Diary</button>
       </aside>
     </div>
-  )
+  );
 }
+
+export default App;
